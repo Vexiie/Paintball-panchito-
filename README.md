@@ -47,7 +47,7 @@
 15. **Productos o Funcionalidades Clave en la Product List:**
     - En la "Product List", es esencial incluir productos como balines, alquiler de equipo, y opciones de personalización. La prioridad de cada elemento dependerá de los requisitos del proyecto y las necesidades del usuario final, enfocándose en ofrecer un servicio completo y satisfactorio para el cliente.
 
-Posibles soluciones:
+**Posibles soluciones:**
 
 1. Implementación de un Sistema de Gestión Centralizado
 Desafío Actual: Falta de un sistema unificado para manejar las reservas y la comunicación de promociones.
