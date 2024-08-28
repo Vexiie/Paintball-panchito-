@@ -16,10 +16,10 @@ Entrevista (Celli)
 Subir el releveamiento al Github (Celli)
 
 26/08
-sql-DFD
+sql-DFD (abi)
 
 27-08
-Caso de uso
+Caso de uso (abo)
 
 28/08
  subida y orden de los trabajos (Abi)
