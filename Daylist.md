@@ -6,7 +6,7 @@ creación del github y encargar partes del trabajo
 Creación del Product Backlog y el Product List (Ariel)
 
 9/8/2024
-Creación del diagrama de Gantt (Arianny) 
+Creación del diagrama de Gantt y CPM (Arianny) 
 
 Entrevista (Celli)
 
