@@ -31,5 +31,5 @@ CPM Arreglado (Ari)
 Se avanzó con la página (Celli)
 Se actualizó el Tablero KanBan (Eze)
 
-
-
+9/9/24
+DTE ariel
