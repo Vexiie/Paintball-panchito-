@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header3">
+        <div class="menu container">
+            <img src="final.png" alt="logo de paintball">
+            <a href="index.html" class="logo">Paintball</a>
+            <input type="checkbox" id="menu" />
+            <label for="menu">
+                <img src="images/menu.png" class="menu-icono" alt="Icono de menú">
+            </label>
+            <nav class="navbar">
+                <ul>
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="packs.html">Packs</a></li>
+                    <li><a href="contacto.html">Contacto</a></li>
+                    <li><a href="reservar.html">Reservar</a></li>
+                </ul>
+            </nav>
+        </div>
+        
+        <div class="header-content container">
+            <img src="menup.jpg" alt="Imagen de fondo de Paintball">
+            <h1>Contátate con nosotros</h1>
+        </div>
+    </header>
+
+    <section class="contact-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="section-heading">
+                        <h6>| Contacto</h6>
+                        <h2>Información de contacto</h2>
+                    </div>
+                    <p>Si tienes alguna pregunta o quieres saber más sobre nuestros servicios de paintball, ¡no dudes en contactarnos!</p>
+                    <div class="contact-info">
+                        <div class="item phone">
+                            <img src="phone-icon.png" alt="Teléfono">
+                            <h6>010-020-0340<br><span>Número de teléfono</span></h6>
+                        </div>
+                        <div class="item email">
+                            <img src="email-icon.png" alt="Email">
+                            <h6>paintball@si.com<br><span>Email</span></h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <form id="contact-form" action="" method="post">
+                        <fieldset>
+                            <label for="name">Nombre</label>
+                            <input type="text" name="name" id="name" placeholder="Tu Nombre..." required>
+                        </fieldset>
+                        <fieldset>
+                            <label for="email">Email</label>
+                            <input type="email" name="email" id="email" placeholder="Tu Email..." required>
+                        </fieldset>
+                        <fieldset>
+                            <label for="subject">Asunto</label>
+                            <input type="text" name="subject" id="subject" placeholder="Asunto...">
+                        </fieldset>
+                        <fieldset>
+                            <label for="message">Mensaje</label>
+                            <textarea name="message" id="message" placeholder="Tu Mensaje"></textarea>
+                        </fieldset>
+                        <fieldset>
+                            <button type="submit" id="form-submit" class="submit-button">Enviar</button>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>
